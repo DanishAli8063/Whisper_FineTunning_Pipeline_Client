@@ -1,0 +1,7 @@
+requests
+fastapi
+pydub
+fuzzywuzzy
+python-Levenshtein
+similarity
+preprocess
